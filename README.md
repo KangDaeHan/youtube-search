@@ -1,4 +1,4 @@
-# My Side Project (Feature-First Lite Boilerplate)
+# 유튜브 API를 이용해 원하는 검색 결과 출력
 
 ## Quick Start
 ```bash
